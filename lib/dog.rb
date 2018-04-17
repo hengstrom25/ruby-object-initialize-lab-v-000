@@ -18,5 +18,8 @@ class Dog
   
   def breed
     @breed
+    if nil
+      returns "Mutt"
+    end
   end
 end
